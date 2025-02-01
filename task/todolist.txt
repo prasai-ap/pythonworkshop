@@ -1,6 +1,0 @@
-code
-dicussion
-review
-config
-test
-coffee break
